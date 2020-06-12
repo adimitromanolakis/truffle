@@ -22,7 +22,7 @@ https://adimitromanolakis.github.io/truffle-website/
 
 You can find the datasets A,B as used in our papaper, in the folder docs.
 
-* Please note: * In order to download those using the command line git client, you need the GitLFS extension installed. If you don't have this enable, please download the files by navigating through the git web page:
+* Please note: In order to download/clone the files using the command line git client, you need the GitLFS extension installed. It might be easier to download the files by navigating through the git web page:
 
 https://github.com/adimitromanolakis/truffle/blob/master/datasets/400k.vcf.gz
 https://github.com/adimitromanolakis/truffle/blob/master/datasets/vcf-ld01-thin-mod.vcf.gz
