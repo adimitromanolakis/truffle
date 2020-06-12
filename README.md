@@ -1,9 +1,6 @@
 # TRUFFLE - Fast shared segment and ancestry estimation. 
 
 
-# Quickstart
-
-
 ## Introduction 
 TRUFFLE is a software package for simple and accurate identification of IBD1 and 2 segments in unphased VCF files. It was designed from scratch with ease of use and low computational overhead in mind. Please see our paper at:
 
